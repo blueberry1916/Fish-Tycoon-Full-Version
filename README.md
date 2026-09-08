@@ -238,3 +238,6 @@ This repository serves as the official landing page for Fish Tycoon. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Fish Tycoon today!**
+
+---
+**Last updated:** 2026-09-08 14:17:18 UTC
